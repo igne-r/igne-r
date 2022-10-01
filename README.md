@@ -1,7 +1,8 @@
-- 👋 Olá, eu sou o @igne-r
-- 👀 Estou interessado em aprender mais sobre hardware de bancada e aprender mais sobre programação
-- 🌱 Atualmente estou estudando no CEFET-RJ no curso de Eletrônica, e estudando as linguagens Python e JS/CSS/HTML 
-- 💞️ Estou buscando em colaborar em estágio que seja de bancada ou de programação, onde eu possa evoluir e assim me tornar um melhor profissional
+-  Olá, eu sou o @igne-r
+-  Estou interessado em aprender mais sobre hardware de bancada e aprender mais sobre programação
+-  Sou formado pelo CEFET-RJ no curso de Eletrônica e estudando Análise e desevolvimento de sistemas pela PUC
+-  Iniciando os estudos nas linguagens Python e JS/CSS/HTML 
+-  Trabalho na empresa Vinnig, atuando no desenvolvimento do serviço de telemetria de baterias.
 - 📫 How to reach me: victor.i.f.rocha@gmail.com
 
 <!---
